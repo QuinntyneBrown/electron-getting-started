@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "electron-getting-started", "src\electron-getting-started\electron-getting-started.csproj", "{FBB592D9-60D0-48AB-801A-814AD8E1DC18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7B1E57A0-E03F-44AD-AF27-536A6C1A5457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB592D9-60D0-48AB-801A-814AD8E1DC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB592D9-60D0-48AB-801A-814AD8E1DC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB592D9-60D0-48AB-801A-814AD8E1DC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB592D9-60D0-48AB-801A-814AD8E1DC18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FBB592D9-60D0-48AB-801A-814AD8E1DC18} = {7B1E57A0-E03F-44AD-AF27-536A6C1A5457}
+	EndGlobalSection
+EndGlobal
